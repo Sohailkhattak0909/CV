@@ -205,10 +205,6 @@ p {
     background: rgb(188, 68, 68);
 }
 
-.interest ul {
-    display: grid;
-    
-}
 
 .interest ul li {
     list-style: none;
