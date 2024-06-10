@@ -95,7 +95,7 @@ body {
 .contactInfo ul li {
     position: relative;
     list-style: none;
-    margin: 10px 0;
+    margin: 4px 0;
     cursor: pointer;
 }
 
@@ -108,7 +108,7 @@ body {
 
 .contactInfo ul li span {
     color: #fff;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 .contactInfo.education li {
