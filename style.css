@@ -21,7 +21,6 @@ body {
     min-height: 1000px;
     border-radius: 10px;
     background: #000000;
-    margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(211, 68, 68, 0.1);
@@ -102,7 +101,7 @@ body {
 
 .contactInfo ul li .icon {
     display: inline-block;
-    width: 30px;
+    width: 20px;
     font-size: 18px;
     color: #e37b7d;
 }
